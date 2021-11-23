@@ -1,5 +1,15 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 I'm</h3>
 
+<h1 align="center">Abhijeet Tomar</h1>
+
+
+* Software developer 🎓
+* IoT
+* Learning web-dev technologies 🌐
+* Linux
+
+<h2>Tech Stack</h2>
+  <h2>Projects</h2>
 <!--
 **abhijeettmr/abhijeettmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
