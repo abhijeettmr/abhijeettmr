@@ -8,7 +8,6 @@
 * Linux
 
 <h2>Tech Stack</h2>
-
 * Jave
 * Docker
 * Kafka
@@ -16,7 +15,6 @@
 * ELK, FileBeat
 * AWS
 * NodeMCU, Arduino
-
   <h2>Projects</h2>
   
   
