@@ -6,10 +6,10 @@
 * IoT
 * Learning web-dev technologies 🌐
 * Linux
-
+* 
 <h2>Tech Stack</h2>
 
-* Jave
+* Java
 * Docker
 * Kafka
 * Grafana
