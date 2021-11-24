@@ -2,13 +2,13 @@
 
 <h1 align="center">Abhijeet Tomar</h1>
 
-
 * Software developer 🎓
 * IoT
 * Learning web-dev technologies 🌐
 * Linux
 
 <h2>Tech Stack</h2>
+
 * Jave
 * Docker
 * Kafka
