@@ -9,6 +9,14 @@
 * Linux
 
 <h2>Tech Stack</h2>
+* Jave
+* Docker
+* Kafka
+* Grafana
+* ELK, FileBeat
+* AWS
+* NodeMCU, Arduino
+
   <h2>Projects</h2>
   
   
